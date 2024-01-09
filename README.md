@@ -1,2 +1,2 @@
 # fid
-A repository designed for my class about web design
+A repository designed for my class DIG2500 Fundamentals of Interactive Design
